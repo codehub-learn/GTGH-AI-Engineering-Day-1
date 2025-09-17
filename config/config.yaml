@@ -1,0 +1,3 @@
+logging:
+  level: DEBUG  # Options: DEBUG, INFO, WARNING, ERROR, CRITICAL - change them to see the results
+  file: logs/app.log
